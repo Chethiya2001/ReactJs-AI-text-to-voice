@@ -1,12 +1,4 @@
-# React + Vite
+# React Text To Voice (Mp3 download)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="645" height="518" alt="textv2" src="https://github.com/user-attachments/assets/0370a99f-89ab-4fe7-b58c-3936fb86362c" />
+<img width="1067" height="669" alt="textv1" src="https://github.com/user-attachments/assets/4fc77758-0fcb-4921-925f-328dcd152bae" />
